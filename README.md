@@ -2,7 +2,7 @@
 
 
 
-🔭 I’m currently working on the co2go project.
+🔭 I’m currently contribuiting on the co2go project.
 
 🌱 I’m currently learning about eo-learn and geopandas.
 
