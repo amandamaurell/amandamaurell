@@ -2,9 +2,7 @@
 
 
 
-🔭 I’m currently contribuiting on the co2go project.
-
-🌱 I’m currently learning about eo-learn and geopandas.
+🔭 I’m currently working as a Batch Manager for Le Wagon Online and as a Lead Teacher.
 
 📫 How to reach me: amanda.maurell@gmail.com
 
