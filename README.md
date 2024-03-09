@@ -6,6 +6,10 @@
 
 📫 How to reach me: amanda.maurell@gmail.com
 
+<p align="left">
+<a href="https://www.linkedin.com/in/amanda-maurell-00862172/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanda-maurell-00862172" height="30" width="40" /></a>
+</p>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amandamaurell&count_private=true&show_icons=true)
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> 
