@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amanda Maurell</h1>
-<h3 align="center">A passionate data scientist from Brazil, currently living in Germany.</h3>
 
-- 🌱 I’m currently learning **about DBT**
-
-- 💬 Ask me about **python, GCP, Docker**
+- 🌱 I’m currently learning **about AWS cdk**
 
 - 📫 How to reach me **amanda.maurell@gmail.com**
 
